@@ -69,6 +69,6 @@ Eva from line 5 checks out at time 220.
 
 2. **Compile and run the program**:
    ```bash
-   gcc main.c -o queue_flow
-   ./queue_flow
+   gcc main.c -o ticket-queue-simulation
+   ./ticket-queue-simulation
    ```
