@@ -1,6 +1,6 @@
-# Queue Flow
+# Ticket Queue Simulation
 
-**Queue Flow** is a queue management system designed to handle customer assignments to multiple service booths, ensuring optimal performance with linked list data structures. The project dynamically allocates customers to booths, efficiently distributing the load, and processes customers based on their arrival time.
+This is a queue management system designed to handle customer assignments to multiple service booths, ensuring optimal performance with linked list data structures. The project dynamically allocates customers to booths, efficiently distributing the load, and processes customers based on their arrival time.
 
 ## Features
 
