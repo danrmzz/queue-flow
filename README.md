@@ -12,7 +12,7 @@ This is a queue management system designed to handle customer assignments to mul
 
 ## Purpose
 
-Queue Flow is designed to simulate the flow of customers through a theoretical ticketing system with multiple service booths. It handles dynamic customer assignments and optimizes processing efficiency using a linked list for queue management. This project ensures smooth customer flow, balanced resource utilization, and avoids memory leaks with proper dynamic memory management.
+This is designed to simulate the flow of customers through a theoretical ticketing system with multiple service booths. It handles dynamic customer assignments and optimizes processing efficiency using a linked list for queue management. This project ensures smooth customer flow, balanced resource utilization, and avoids memory leaks with proper dynamic memory management.
 
 ## Sample Output
 
