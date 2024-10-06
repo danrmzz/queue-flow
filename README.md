@@ -63,8 +63,8 @@ Eva from line 5 checks out at time 220.
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/danrmzz/queue-flow.git
-   cd queue-flow
+   git clone https://github.com/danrmzz/ticket-queue-simulation.git
+   cd ticket-queue-simulation
    ```
 
 2. **Compile and run the program**:
